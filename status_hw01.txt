@@ -13,7 +13,7 @@ grumdog.com
 
 
 4. What's the URL of your Github repository for this assignment?
-https://github.com/nickghughes/CS4550-HW01
+https://github.com/nickghughes/CS4550-HW01.git
 
 
 5. Which parts of this assignment did you have trouble with, if any?
