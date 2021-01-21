@@ -1,0 +1,34 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name? Nick Hughes
+
+
+2. Which VPS & domain providers did you choose?
+Linode (VPS) and Namecheap (domain)
+
+
+3. What domain name did you register?
+grumdog.com
+
+
+4. What's the URL of your Github repository for this assignment?
+https://github.com/nickghughes/CS4550-HW01
+
+
+5. Which parts of this assignment did you have trouble with, if any?
+Creating a valid route to serve images within the site. After realizing that the images are served the same way as webpages, I was able to figure it out. However, I still feel unsure about what the best practice for static images is between the following options:
+- Place them inside ~www/hw01.grumdog.com/images
+- Create a new top-level directory ~images with a different location block in the configuration file, that way images are available for all deployed sites.
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
+ - Task 9
